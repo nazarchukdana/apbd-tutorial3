@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNHNVGu4N6w=",
+  "success": true,
+  "projectFilePath": "C:\\study\\apbd\\apbd-tutorial3\\apbd_tutorial3\\apbd_tutorial3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazar\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.200\\microsoft.net.sdk.compilers.toolset.9.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\bin\Debug\net9.0\apbd_tutorial3.exe
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\bin\Debug\net9.0\apbd_tutorial3.deps.json
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\bin\Debug\net9.0\apbd_tutorial3.runtimeconfig.json
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\bin\Debug\net9.0\apbd_tutorial3.dll
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\bin\Debug\net9.0\apbd_tutorial3.pdb
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.AssemblyInfoInputs.cache
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.AssemblyInfo.cs
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.csproj.CoreCompileInputs.cache
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.sourcelink.json
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.dll
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\refint\apbd_tutorial3.dll
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.pdb
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\apbd_tutorial3.genruntimeconfig.cache
+C:\study\apbd\apbd-tutorial3\apbd_tutorial3\obj\Debug\net9.0\ref\apbd_tutorial3.dll
